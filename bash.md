@@ -21,5 +21,5 @@ To extract the columns 1 to 10 from a file delimited by an underscore
 - -d # specify the column delimiter. \t is the default
 
 ```
-cut -f<from>-<to> -d"<delimiter"
+cut -f<from>-<to> -d"<delimiter>"
 ```
